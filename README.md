@@ -43,7 +43,23 @@ The platform is designed with simplicity and scalability in mind — ideal for s
 
 ---
 
-## 📁 Project Structure
+🔐 Security Notes
+Passwords are hashed using werkzeug.security
+
+Flask-Login manages secure session cookies
+
+CSRF protection and validation should be added for production
+
+🌱 Future Enhancements
+🌍 Multi-language support
+
+📱 Mobile app version (using React Native or Flutter)
+
+💳 Payment integration (Stripe/PayPal)
+
+⭐ Rating and review system
+
+🔔 Real-time notifications
 
 
 
