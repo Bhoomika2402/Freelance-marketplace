@@ -13,7 +13,7 @@ const jobsData = [
     { title: "UI/UX Designer", company: "Adobe", category: "Design", postType: "Senior", salary: "$10 - $18k /yr", datePosted: "2 weeks ago", icon: "fab fa-adobe" }
 ];
 
-// Function to render jobs
+// Function to render jobs and send 
 function renderJobs(filteredJobs = jobsData) {
     const jobContainer = document.getElementById('jobContainer');
     jobContainer.innerHTML = ''; // Clear previous results
