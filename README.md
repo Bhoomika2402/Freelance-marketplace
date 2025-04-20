@@ -33,7 +33,7 @@ The platform is designed with simplicity and scalability in mind — ideal for s
 
 ## 🎯 Key Features
 
-- 🔐 **User Authentication** – Secure registration & login for clients and freelancers.
+- 🔐 **User Authentication** – Secure registration portal & login for clients and freelancers.
 - 📄 **Profile Management** – Users can update skills, bios, and portfolios.
 - 📋 **Job Posting & Applications** – Clients can post jobs, freelancers can apply.
 - 💼 **Service Listings** – Freelancers can create custom service offers (gigs).
