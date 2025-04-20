@@ -4,7 +4,7 @@ const jobsData = [
     { title: "UX Designer", company: "Google Drive", category: "Design", postType: "Junior", salary: "$6.7 - $12.5k /yr", datePosted: "1 day ago", icon: "fab fa-google-drive" },
     { title: "JavaScript Developer", company: "Google", category: "Web Design", postType: "Senior", salary: "$8.7 - $13.2k /yr", datePosted: "2 days ago", icon: "fab fa-google" },
     { title: "Product Developer", company: "Facebook", category: "App Development", postType: "Manager", salary: "$11 - $18.5k /yr", datePosted: "2 days ago", icon: "fab fa-facebook" },
-    { title: "Programmer", company: "Github", category: "Programming", postType: "Junior", salary: "$6 - $11.5k /yr", datePosted: "3 days ago", icon: "fab fa-git-alt" },
+    { title: "Programmer", company: "Github", category: "Programming", postType: "Junior", salary: "$60 - $11.5k /yr", datePosted: "3 days ago", icon: "fab fa-git-alt" },
     { title: "React.js Expert", company: "Youtube", category: "Web Design", postType: "VIP", salary: "$12.5 - $25.5k /yr", datePosted: "4 days ago", icon: "fab fa-youtube" },
     { title: "iOS Developer", company: "Apple", category: "App Development", postType: "Senior", salary: "$9 - $15k /yr", datePosted: "1 week ago", icon: "fab fa-apple" },
     { title: "Backend Developer", company: "Amazon", category: "Web Design", postType: "Junior", salary: "$7 - $12k /yr", datePosted: "1 week ago", icon: "fab fa-amazon" },
