@@ -55,7 +55,7 @@ CSRF protection and validation should be added for production
 
 📱 Mobile app version (using React Native or Flutter)
 
-💳 Payment integration (Stripe/PayPal)
+💳 Payment integration .
 
 ⭐ Rating and review system
 
