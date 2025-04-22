@@ -72,12 +72,12 @@
 }
 
 img {
-  display: flex;
+  display:flex;
   width: 100%;
 }
 
 a {
-  text-decoration: none;
+  text-decoration:none;
   transition: 0.3s;
 }
 
