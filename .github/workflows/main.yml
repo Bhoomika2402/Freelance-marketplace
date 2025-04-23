@@ -1,1 +1,42 @@
+project:
+  title: Skill Mingle
+  description: >
+    Skill Mingle is a freelance marketplace platform that connects freelancers and clients,
+    enabling users to showcase their skills, post jobs, and collaborate on projects.
+    Built using HTML, CSS, and JavaScript, the platform focuses on simplicity and accessibility
+    for both new and experienced users.
 
+  tech_stack:
+    - HTML
+    - CSS
+    - JavaScript
+
+  key_features:
+    - User registration and login
+    - Freelancer and client profiles
+    - Job posting and application system
+    - Skill-based search and filtering
+    - Responsive UI for mobile and desktop
+    - Basic messaging system between users
+
+  collaborators:
+    - name: Bhoomika
+      id: 2410990200
+    - name: Harshit Mehta
+      id: 2410990334
+    - name: Kanshika
+      id: 2410990372
+
+  deployment:
+    platform: GitHub Pages
+    status: Live
+
+  future_enhancements:
+    - Add secure payment integration
+    - Implement user reviews and ratings
+    - Improve chat functionality with real-time messaging
+    - Add admin dashboard for user/job moderation
+
+  version: 1.0.0
+  license: MIT
+  repository: https://bhoomika2402.github.io/Freelance-marketplace/
